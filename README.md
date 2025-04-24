@@ -1,2 +1,2 @@
 # bookbot
-The first personal project under Boot.dev. The Bookbot! Made with Python.
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
